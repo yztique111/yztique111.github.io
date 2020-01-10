@@ -10,8 +10,8 @@ url: "" # the base hostname & protocol for your site, e.g. http://example.com
 
 # Author settings
 author: Zhitao Yuan # add your name
-author-pic: adam-face.jpg
-about-author: 码农，爱好很多
+author-pic: yzt-face.jpg
+about-author: 码农，爱好很多。
 
 # Contact links
 email: 294547554@qq.com # Add your Email address
@@ -34,7 +34,7 @@ discus_identifier: mr-brown # Add your discus identifier
 analytics: # Google Analytics
 
 # Paginate
-paginate: 6
+paginate: 32
 paginate_path: /page:num/
 
 # Build settings
